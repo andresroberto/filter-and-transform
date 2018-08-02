@@ -1,0 +1,6 @@
+coverage
+node_modules
+.eslintrc.json
+.gitignore
+*.spec.js
+.package-lock.json
