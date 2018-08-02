@@ -3,3 +3,4 @@ coverage
 .gitignore
 *.spec.js
 .package-lock.json
+.travis.yml
