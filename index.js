@@ -8,7 +8,7 @@ const filterAndTransform = (filterFn, transformFn) =>
   collection =>
     collection.reduce((acc, curr) => {
       if (filterFn(curr)) {
-        return [...acc, transformFn(curr)];
+        acc.push(transformFn(curr));
       }
       return acc;
     }, []);
