@@ -1,4 +1,4 @@
-# filter-and-transform
+# filter-and-transform [![Build Status](https://travis-ci.org/andresroberto/filter-and-transform.svg?branch=master)](https://travis-ci.org/andresroberto/filter-and-transform)
 
 This package exports a HoF that takes two parameters:
 
